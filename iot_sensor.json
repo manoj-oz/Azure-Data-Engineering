@@ -1,0 +1,23 @@
+[
+  {
+    "device_id": "SENSOR_001",
+    "timestamp": "2025-08-30T10:00:00Z",
+    "temperature": 22.5,
+    "humidity": 60.2,
+    "vibration": 0.02
+  },
+  {
+    "device_id": "SENSOR_002",
+    "timestamp": "2025-08-30T10:00:05Z",
+    "temperature": 23.1,
+    "humidity": 58.9,
+    "vibration": 0.04
+  },
+  {
+    "device_id": "SENSOR_003",
+    "timestamp": "2025-08-30T10:00:10Z",
+    "temperature": 21.8,
+    "humidity": 62.3,
+    "vibration": 0.01
+  }
+]
